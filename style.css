@@ -1,0 +1,56 @@
+body{
+font-family: 'Poppins', sans-serif;
+}
+span{
+    color: blue;
+}
+.blog{
+    text-decoration: none;
+    background-image: linear-gradient(red,tomato);
+   border-radius: 5px;
+   padding: 5px;
+}
+.fast{
+    display: flex;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    padding: 50px;
+    
+}
+.font{
+    font-size: 50px;
+}
+.bac{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.third{
+   
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+     display: flex;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 10px; 
+   
+}
+.comon{
+    color: chartreuse;
+}
+.sado{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+   box-shadow:20px 20px 80px rgb(160, 151, 157);  
+}
+#fast{
+    border-left:5px solid;
+    border-image: linear-gradient(rgb(36, 7, 201),rgb(10, 185, 171));
+    border-image-slice: 1;
+}
+#secaned{
+    border-left:5px solid;
+   border-image: linear-gradient(red,tomato);
+    border-image-slice: 1;
+}
